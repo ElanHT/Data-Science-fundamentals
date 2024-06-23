@@ -2,6 +2,6 @@
 
 Incluye los siguientes topicos:
 
-*Fundamentos
-*Codigo GIT
-*Codigo Python y R
+* Fundamentos
+* Codigo GIT
+* Codigo Python y R
